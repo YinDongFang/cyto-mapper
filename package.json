@@ -1,0 +1,39 @@
+{
+  "name": "cyto-mapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-mapper.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-mapper/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-mapper#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "debug": "^4.3.4",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "jquery": "^3.7.1",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "qs": "^6.12.0",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0",
+    "cyto-parser": "^1.0.0",
+    "cyto-network": "^1.0.0",
+    "cyto-tools": "^1.0.0",
+    "cyto-router": "^1.0.0",
+    "cyto-controller": "^1.0.0",
+    "cyto-frontend": "^1.0.0",
+    "cyto-connector": "^1.0.0"
+  }
+}
